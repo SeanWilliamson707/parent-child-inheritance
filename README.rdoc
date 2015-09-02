@@ -1,0 +1,1 @@
+Just an exercise with prototype in JS. Made made in Apple's Script Editor to avoid tedious setup of initializing a new index.html and having to switch into the browser. Syntax is a little different for that reason.
